@@ -9,7 +9,7 @@
    },
    {
       "Answer": "Appeal to Bandwagon",
-      "Question": "Do you like cake?"
+      "Question": "Most people believe that advertisers should spend more money on billboards. Therefore billboards are objectively the best form of advertisement"
    },
    {
       "Answer": "Red Herring",
@@ -17,7 +17,7 @@
    },
    {
       "Answer": "False Dilemma",
-      "Question": "Do you like cake?"
+      "Question": "We can agree with Bob's plan or just let the project fail"
    },
    {
       "Answer": "Argument from consequence",
@@ -25,7 +25,7 @@
    },
    {
       "Answer": "Appeal to ignorance",
-      "Question": "Do you like cake?"
+      "Question": "Dan thinks that the office is haunted since no one has proved it isn't haunted"
    },  
    {
       "Answer": "Slippery Sloap",
@@ -33,7 +33,19 @@
    },
    {
       "Answer": "Straw man",
-      "Question": "Do you like cake?"
+      "Question": "Should we hire someone to redesign out website? You're saying we should throw away our money on external resources than building up our in-house design team"
    },
-  
+   {
+      "Answer": "Hasty Generalization",
+      "Question": "Two members of my team have become better speakers after taking speaking classes. That provs we should have mandatory public speaking classes for the whole company to improve employee engagement"
+   },
+   {
+      "Answer": "Anecdotal Evidence Fallacy",
+      "Question": "One of our clients doubled their conversations after changing all their text to red. Changing text to red is a proven way of doubling conversations"
+   },
+   {
+      "Answer": "Tu quoque Fallacy (you also)",
+      "Question": "I don't think John would be a good fit for this project because he doesn't have a lot of experiance with project management. But you don't have a lot of experiance in project management either!"
+   }
 ]
+

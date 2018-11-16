@@ -15,8 +15,8 @@ if __name__ == '__main__':
    while(True):
       item = get_question(qdict)
       question = item['Question']
-      answer = item['Answer']
-      something = input(question)
+      answer = item['Answer'].lower()
+      something = input(answer).lower()
       if(something == "exit"):
          break
       if(something == answer):
