@@ -71,8 +71,9 @@
    },
    {
       "Answer": "Post Hoc",
-      "Question": "I saw a magpie and then I crashed my car. Ergo magpies must be bad luck.
-   }
+      "Question": "I saw a magpie and then I crashed my car. Ergo magpies must be bad luck."
+   },
+   {
       "Answer": "Cum Hoc",
       "Question": "Hospitals are fall of sick people. Therefore hospitals must make people sick"
    }
