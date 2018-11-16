@@ -1,15 +1,20 @@
 [
    {
       "Answer": "Ad Hominem",
-      "Question": "Do you like cake?"
+      "Question": "He stole the wallet. He's poor!"
    },
    {
+      "Answer": "Ad Hominem",
+      "Question": "You wouldn't know because you never graduated college"
+   },
+
+   {
       "Answer": "False Equivalence",
-      "Question": "Do you like pizza?"
+      "Question": "Both cat's and dogs are fluffy. So they must be the same"
    },
    {
       "Answer": "Appeal to Bandwagon",
-      "Question": "Most people believe that advertisers should spend more money on billboards. Therefore billboards are objectively the best form of advertisement"
+      "Question": "Most people bought this album so it must be good"
    },
    {
       "Answer": "Red Herring",
@@ -21,7 +26,7 @@
    },
    {
       "Answer": "Argument from consequence",
-      "Question": "Do you like cake?"
+      "Question": "I always take my umbrella when it rains. I have my umbrella, therefore it must have rained"
    },
    {
       "Answer": "Appeal to ignorance",
@@ -29,12 +34,21 @@
    },  
    {
       "Answer": "Slippery Sloap",
-      "Question": "Do you like cake?"
+      "Question": "If we let your brother stay. We'll halve to let the whole family stay"
+   },
+   {
+      "Answer": "Slippery Sloap",
+      "Question": "If we allow marriage between two men it won't stop there. Eventually people will want to give rights for animals to marry too"
    },
    {
       "Answer": "Straw man",
       "Question": "Should we hire someone to redesign out website? You're saying we should throw away our money on external resources than building up our in-house design team"
    },
+   {
+      "Answer": "Straw man",
+      "Question": "The nation is in debt and we should not add to the defense. I cannot believe you want to leave the nation defenseless"
+   },
+
    {
       "Answer": "Hasty Generalization",
       "Question": "Two members of my team have become better speakers after taking speaking classes. That provs we should have mandatory public speaking classes for the whole company to improve employee engagement"
@@ -46,6 +60,21 @@
    {
       "Answer": "Tu quoque Fallacy (you also)",
       "Question": "I don't think John would be a good fit for this project because he doesn't have a lot of experiance with project management. But you don't have a lot of experiance in project management either!"
+   },
+   {
+      "Answer": "Tu quoque Fallacy (you also)",
+      "Question": "You shouldn't have that second peace of cake. It's so fattening. Didn't you eat a whole tub of icecream yesterday?"
+   },
+   {
+      "Answer": "The Fallacy Fallacy",
+      "Question": "John's argument in favor of redesigning the company website clearly relied heavily on cherry-picked statistics in support of his claim, so Lola decided that redesigning the website must not be a good decision"
+   },
+   {
+      "Answer": "Post Hoc",
+      "Question": "I saw a magpie and then I crashed my car. Ergo magpies must be bad luck.
+   }
+      "Answer": "Cum Hoc",
+      "Question": "Hospitals are fall of sick people. Therefore hospitals must make people sick"
    }
 ]
 
